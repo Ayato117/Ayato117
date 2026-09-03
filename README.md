@@ -1,20 +1,3 @@
-<div align="center">
-
-# Hi, I'm Ayato 👋
-
-### Web・モバイルアプリを作りながら、新しい技術を学んでいます。
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayato117-181717?style=for-the-badge&logo=github)](https://github.com/Ayato117)
-[![Repositories](https://img.shields.io/badge/Projects-View_repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayato117?tab=repositories)
-
-</div>
-
-## About me
-
-- 💻 Web 開発とモバイルアプリ開発を中心に学んでいます
-- 🚀 アイデアを動くアプリとして形にすることが好きです
-- 🌱 より良い設計と新しい技術を継続して学んでいます
-
 ## Tech stack
 
 <div align="center">
