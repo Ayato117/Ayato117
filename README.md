@@ -1,7 +1,5 @@
 ## Tech stack
 
-<!-- <div align="center"> -->
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
@@ -13,18 +11,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- </div> -->
-
 ## GitHub stats
-
-<div align="center">
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayato117&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayato117&theme=tokyonight" alt="Top languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight" alt="GitHub stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayato117&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayato117&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayato117&theme=tokyonight)
 
-</div>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayato117&theme=tokyonight" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayato117&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight" alt="GitHub stats" /> -->
 
 ## Contributions
 
