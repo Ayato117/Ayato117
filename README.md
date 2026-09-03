@@ -21,8 +21,8 @@
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayato117&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayato117&theme=tokyonight" height="165" alt="Top languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayato117&theme=tokyonight" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight" alt="GitHub stats" />
 
 </div>
 
