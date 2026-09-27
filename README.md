@@ -20,7 +20,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayato117&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayato117&theme=tokyonight)
 
-## Contributions
-
-![Contribution snake](https://raw.githubusercontent.com/Ayato117/Ayato117/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution snake](https://raw.githubusercontent.com/Ayato117/Ayato117/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- ## Contributions -->
+<!-- ![Contribution snake](https://raw.githubusercontent.com/Ayato117/Ayato117/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
+<!-- ![Contribution snake](https://raw.githubusercontent.com/Ayato117/Ayato117/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
